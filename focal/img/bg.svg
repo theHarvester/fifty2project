@@ -1,0 +1,82 @@
+<svg width="640" height="479.99999999999994" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" class="drawing">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <linearGradient id="svg_3" spreadMethod="pad">
+   <stop stop-color="#46a1fc" offset="0"/>
+   <stop stop-color="#b95e03" offset="1"/>
+  </linearGradient>
+  <linearGradient id="svg_5" spreadMethod="pad" x1="0.50708" y1="0" x2="0.55396" y2="1">
+   <stop stop-color="#7abcff" stop-opacity="0.99219" offset="0"/>
+   <stop stop-color="#007fff" stop-opacity="0.99609" offset="1"/>
+  </linearGradient>
+  <linearGradient id="svg_6" spreadMethod="pad" x1="0.50708" y1="0" x2="0.48755" y2="0.41406">
+   <stop stop-color="#7abcff" stop-opacity="0.99219" offset="0"/>
+   <stop stop-color="#007fff" stop-opacity="0.99609" offset="1"/>
+  </linearGradient>
+  <linearGradient id="svg_9" x1="0.52661" y1="0.49609" x2="0.55396" y2="0">
+   <stop stop-color="#21384f" stop-opacity="0.99609" offset="0"/>
+   <stop stop-color="#0f263d" stop-opacity="0.99609" offset="1"/>
+  </linearGradient>
+  <linearGradient id="svg_10" x1="0.52661" y1="0.49609" x2="0.55396" y2="0">
+   <stop stop-color="#344c63" stop-opacity="0.99219" offset="0"/>
+   <stop stop-color="#0f263d" stop-opacity="0.99609" offset="1"/>
+  </linearGradient>
+  <linearGradient id="svg_11" x1="0.50317" y1="1" x2="0.55396" y2="0">
+   <stop stop-color="#344c63" stop-opacity="0.99219" offset="0"/>
+   <stop stop-color="#0f263d" stop-opacity="0.99609" offset="1"/>
+  </linearGradient>
+  <linearGradient id="svg_13" x1="0.50317" y1="1" x2="0.55396" y2="0">
+   <stop stop-color="#344c63" stop-opacity="0.99219" offset="0"/>
+   <stop stop-color="#0f263d" stop-opacity="0.99609" offset="1"/>
+  </linearGradient>
+  <linearGradient id="svg_62" x1="0.52271" y1="0" x2="0.50708" y2="1">
+   <stop stop-color="#ffd800" stop-opacity="0.99609" offset="0"/>
+   <stop stop-color="#ffd905" stop-opacity="0.99219" offset="1"/>
+  </linearGradient>
+  <linearGradient id="svg_63" x1="0.52271" y1="0" x2="0.50708" y2="1">
+   <stop stop-color="#ffd800" stop-opacity="0.99609" offset="0"/>
+   <stop stop-color="#ffd905" stop-opacity="0.01172" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>base_background</title>
+  <rect id="svg_4" height="482.3024" width="642.79398" y="-2.09019" x="-1.62691" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="url(#svg_6)" stroke="#000000"/>
+ </g>
+ <g>
+  <title>skyscraper_shadows</title>
+  <path fill="#375c82" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m149,197l9,9l0,146l-12,0l3,-155z" id="svg_42"/>
+  <path fill="#375c82" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m228,261.5l9,9l0,146l-12,0l3,-155z" id="svg_43"/>
+  <path fill="#375c82" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m363,222.5l9,9l0,146l-12,0l3,-155z" id="svg_44"/>
+  <path fill="#375c82" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m506,160.5l9,11.43871l0,185.56129l-12,0l3,-197z" id="svg_45" stroke="#000000"/>
+  <path fill="#375c82" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m613,90.5l9,9l0,146l-12,0l3,-155z" id="svg_46"/>
+ </g>
+ <g display="inline">
+  <title>skyscrapers</title>
+  <path fill="url(#svg_13)" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m-50,350l83,0l0,-66l58,0l0,-88l58,0l0,155l23,0l0,-90l56,0l0,90l48,0l0,-128l87,0l0,34l59,0l0,-98l84,0l0,198l54,0l0,-267l53,0l0,142l34,0l0,252l-658,-1l-39,-133z" id="svg_12"/>
+ </g>
+ <g>
+  <title>skyscraper_lights</title>
+  <rect fill="#375c82" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="116" y="226" width="25" height="13" id="svg_16" stroke="#000000"/>
+  <rect fill="#375c82" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="98" y="246" width="43" height="13" id="svg_17"/>
+  <rect fill="#375c82" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="98" y="266" width="43" height="13" id="svg_18"/>
+  <rect fill="#375c82" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="98" y="286" width="32" height="13" id="svg_19" stroke="#000000"/>
+  <rect fill="#375c82" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="98" y="306" width="43" height="13" id="svg_20"/>
+  <rect fill="#375c82" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="109" y="326" width="22" height="13" id="svg_21" stroke="#000000"/>
+  <rect fill="#375c82" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="44" y="292" width="14" height="50" id="svg_22" stroke="#000000"/>
+  <rect fill="#375c82" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="68" y="292" width="14" height="35" id="svg_24" stroke="#000000"/>
+  <rect fill="#375c82" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="182" y="271" width="14" height="52" id="svg_25" stroke="#000000"/>
+  <rect fill="#375c82" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="203" y="271" width="14" height="71" id="svg_28" stroke="#000000"/>
+  <rect fill="#375c82" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="98" y="206" width="43" height="13" id="svg_15"/>
+  <rect fill="#375c82" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="284.5" y="230.5" width="69" height="13" id="svg_30" stroke="#000000"/>
+  <rect fill="#375c82" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="284.5" y="250.5" width="27" height="13" id="svg_31" stroke="#000000"/>
+  <rect fill="#375c82" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="284.5" y="270.5" width="69" height="13" stroke="#000000" id="svg_32"/>
+  <rect fill="#375c82" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="302.5" y="290.5" width="40" height="13" id="svg_33" stroke="#000000"/>
+  <rect fill="#375c82" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="284.5" y="310.5" width="69" height="13" stroke="#000000" id="svg_34"/>
+  <rect fill="#375c82" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="306.5" y="330.5" width="47" height="13" id="svg_35" stroke="#000000"/>
+  <rect fill="#375c82" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="433" y="170.49999" width="16" height="180" id="svg_36" stroke="#000000"/>
+  <rect fill="#375c82" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="458" y="170.49999" width="16" height="147" id="svg_38" stroke="#000000"/>
+  <rect fill="#375c82" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="482" y="170.49999" width="16" height="180" id="svg_39" stroke="#000000"/>
+  <rect fill="#375c82" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="569" y="101.00001" width="13" height="180" id="svg_40" stroke="#000000"/>
+  <rect fill="#375c82" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="590" y="101.00001" width="13" height="246.99999" id="svg_41" stroke="#000000"/>
+ </g>
+</svg>

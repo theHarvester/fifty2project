@@ -1,0 +1,63 @@
+<svg width="640" height="479.99999999999994" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" class="drawing">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <linearGradient id="svg_3" spreadMethod="pad">
+   <stop stop-color="#46a1fc" offset="0"/>
+   <stop stop-color="#b95e03" offset="1"/>
+  </linearGradient>
+  <linearGradient id="svg_5" spreadMethod="pad" x1="0.50708" y1="0" x2="0.55396" y2="1">
+   <stop stop-color="#7abcff" stop-opacity="0.99219" offset="0"/>
+   <stop stop-color="#007fff" stop-opacity="0.99609" offset="1"/>
+  </linearGradient>
+  <linearGradient id="svg_6" spreadMethod="pad" x1="0.50708" y1="0" x2="0.48755" y2="0.41406">
+   <stop stop-color="#7abcff" stop-opacity="0.99219" offset="0"/>
+   <stop stop-color="#007fff" stop-opacity="0.99609" offset="1"/>
+  </linearGradient>
+  <linearGradient id="svg_9" x1="0.52661" y1="0.49609" x2="0.55396" y2="0">
+   <stop stop-color="#21384f" stop-opacity="0.99609" offset="0"/>
+   <stop stop-color="#0f263d" stop-opacity="0.99609" offset="1"/>
+  </linearGradient>
+  <linearGradient id="svg_10" x1="0.52661" y1="0.49609" x2="0.55396" y2="0">
+   <stop stop-color="#344c63" stop-opacity="0.99219" offset="0"/>
+   <stop stop-color="#0f263d" stop-opacity="0.99609" offset="1"/>
+  </linearGradient>
+  <linearGradient id="svg_11" x1="0.50317" y1="1" x2="0.55396" y2="0">
+   <stop stop-color="#344c63" stop-opacity="0.99219" offset="0"/>
+   <stop stop-color="#0f263d" stop-opacity="0.99609" offset="1"/>
+  </linearGradient>
+  <linearGradient id="svg_13" x1="0.50317" y1="1" x2="0.55396" y2="0">
+   <stop stop-color="#344c63" stop-opacity="0.99219" offset="0"/>
+   <stop stop-color="#0f263d" stop-opacity="0.99609" offset="1"/>
+  </linearGradient>
+  <linearGradient id="svg_62" x1="0.52271" y1="0" x2="0.50708" y2="1">
+   <stop stop-color="#ffd800" stop-opacity="0.99609" offset="0"/>
+   <stop stop-color="#ffd905" stop-opacity="0.99219" offset="1"/>
+  </linearGradient>
+  <linearGradient id="svg_63" x1="0.52271" y1="0" x2="0.50708" y2="1">
+   <stop stop-color="#ffd800" stop-opacity="0.99609" offset="0"/>
+   <stop stop-color="#ffd905" stop-opacity="0.01172" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>road</title>
+  <rect fill="#4c5b6b" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="-4" y="448" width="649.33337" height="32" id="svg_48" stroke="#000000"/>
+  <rect fill="#e2e2e2" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="588" y="461.33333" width="32" height="4" id="svg_49"/>
+  <rect fill="#e2e2e2" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="521.33333" y="461.33333" width="32" height="4" id="svg_50"/>
+  <rect fill="#e2e2e2" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="454.66667" y="461.33333" width="32" height="4" id="svg_51"/>
+  <rect fill="#e2e2e2" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="388" y="461.33333" width="32" height="4" id="svg_52"/>
+  <rect fill="#e2e2e2" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="321.33334" y="461.33333" width="32" height="4" id="svg_53"/>
+  <rect fill="#e2e2e2" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="254.66667" y="461.33333" width="32" height="4" id="svg_54"/>
+  <rect fill="#e2e2e2" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="188.00001" y="461.33333" width="32" height="4" id="svg_55"/>
+  <rect fill="#e2e2e2" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="121.33334" y="461.33333" width="32" height="4" id="svg_56"/>
+  <rect fill="#e2e2e2" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="54.66668" y="461.33333" width="32" height="4" id="svg_57"/>
+  <rect fill="#e2e2e2" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="-11.99999" y="461.33333" width="32" height="4" id="svg_58"/>
+  <rect fill="#6d6b6b" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="-11" y="440" width="662" height="8" id="svg_59"/>
+ </g>
+ <g>
+  <title>lights</title>
+  <path id="svg_60" fill="#4c4c4c" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m33,446l0,-35l10,-11l23,0l0,7l-16,0c0,0 -9,9 -9,10c0,1 0,29 0,29"/>
+  <path id="svg_61" fill="url(#svg_63)" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m63.48,407l-38.48,55l74,0l-35.52,-55z" stroke="#000000"/>
+  <path id="svg_1" fill="url(#svg_63)" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m462.48004,407l-38.48004,55l74,0l-35.51996,-55z" stroke="#000000"/>
+  <path id="svg_2" fill="#4c4c4c" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m432,445l0,-35l10,-11l23,0l0,7l-16,0c0,0 -9,9 -9,10c0,1 0,29 0,29"/>
+ </g>
+</svg>

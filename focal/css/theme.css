@@ -1,7 +1,6 @@
-#svg-image-blur { height: 220px; width: 320px; }
+body { margin: 0; background-color: #007fff; }
 
-/*#svg-image:hover { filter:url(#blur-effect-1); } */
+#svg-image-blur { height: 600px; width: 800px; }
 
-#svg-image-blur-2 { height: 50px; width: 50px; position:absolute; left:80px; }
+#slider-container { position: absolute }
 
-/* #svg-image-2:hover { filter:url(#blur-effect-2); } */
