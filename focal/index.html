@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Test</title>
+    <link href="css/theme.css" rel="stylesheet" type="text/css">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="js/default.js"></script>
+</head>
+
+<body>
+<div id="slider-container">
+    <input id="slider" type="range" name="points" min="1" max="4" value="1">
+</div>
+<svg id="svg-image-blur">
+    <image x="10" y="10" id="svg-image" width="300" height="200" xlink:href="img/circle.svg"/>
+    <image x="10" y="10" id="svg-image-2" width="300" height="200" xlink:href="img/circle2.svg"/>
+    <filter id="blur-effect-1">
+        <feGaussianBlur stdDeviation="1"/>
+    </filter>
+    <filter id="blur-effect-2">
+        <feGaussianBlur stdDeviation="2"/>
+    </filter>
+    <filter id="blur-effect-3">
+        <feGaussianBlur stdDeviation="3"/>
+    </filter>
+    <filter id="blur-effect-4">
+        <feGaussianBlur stdDeviation="4"/>
+    </filter>
+</svg>
+</body>
+</html>

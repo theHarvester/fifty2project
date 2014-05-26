@@ -1,0 +1,7 @@
+#svg-image-blur { height: 220px; width: 320px; }
+
+/*#svg-image:hover { filter:url(#blur-effect-1); } */
+
+#svg-image-blur-2 { height: 50px; width: 50px; position:absolute; left:80px; }
+
+/* #svg-image-2:hover { filter:url(#blur-effect-2); } */
