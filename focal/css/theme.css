@@ -1,4 +1,4 @@
-body { margin: 0; background-color: #007fff; }
+body { margin: 0; background-color: #007fff; overflow: hidden }
 
 #svg-image-blur { height: 600px; width: 800px; }
 
