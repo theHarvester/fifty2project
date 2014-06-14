@@ -26,6 +26,7 @@
   <head>
 <link href='http://fonts.googleapis.com/css?family=News+Cycle' rel='stylesheet' type='text/css'>
 <link href='resources/style.css' rel='stylesheet' type='text/css'>
+<link rel="shortcut icon" type="image/ico" href="resources/favicon.ico" />
 <title>Tony Abbott: The suppository of all wisdom</title>
 <style>
 
