@@ -2,10 +2,10 @@
 <images>
     <image>
         <title>Pencil</title>
-        <url>http://localhost/fifty2project/gallery/img/pencil.svg</url>
+        <url>http://fifty2project.com/gallery/img/pencil.svg</url>
     </image>
     <image>
         <title>Lego</title>
-        <url>http://localhost/fifty2project/gallery/img/lego_block.svg</url>
+        <url>http://fifty2project.com/gallery/img/lego_block.svg</url>
     </image>
 </images>
